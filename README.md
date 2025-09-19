@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @KaranKumar57<br>- 👀 I’m interested in Cyber Security<br>- 🌱 I’m currently learning C, Python & Flutter<br>- 💞️ I’m looking to collaborate on C and Python Projects<br>- 😄 Pronouns: He, Him, His<br>- ⚡ Fun fact: Playing Cricket<br>
+- 👋 Hi, I’m @KaranKumar57<br>- 👀 I’m interested in Cyber Security<br>- 🌱 I’m currently learning Java, C, Cpp, Python & Flutter<br>- 💞️ I’m looking to collaborate on C and Python Projects<br>- 😄 Pronouns: He, Him, His<br>- ⚡ Fun fact: Playing Cricket<br>
 
 
 ## 🌐 Socials:
